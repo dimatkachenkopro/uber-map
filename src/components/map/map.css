@@ -1,0 +1,9 @@
+.map {
+  position: relative;
+  overflow: hidden;
+}
+
+.mapboxgl-marker  {
+  color: #fff;
+  letter-spacing: 1px;
+}
