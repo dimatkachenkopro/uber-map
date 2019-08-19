@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//dimatkachenkopro.github.io/uber-map/static/css/main.9b2363ee.chunk.css",
+    "main.js": "//dimatkachenkopro.github.io/uber-map/static/js/main.733e1336.chunk.js",
+    "main.js.map": "//dimatkachenkopro.github.io/uber-map/static/js/main.733e1336.chunk.js.map",
+    "runtime~main.js": "//dimatkachenkopro.github.io/uber-map/static/js/runtime~main.0872069c.js",
+    "runtime~main.js.map": "//dimatkachenkopro.github.io/uber-map/static/js/runtime~main.0872069c.js.map",
+    "static/js/2.d763d317.chunk.js": "//dimatkachenkopro.github.io/uber-map/static/js/2.d763d317.chunk.js",
+    "static/js/2.d763d317.chunk.js.map": "//dimatkachenkopro.github.io/uber-map/static/js/2.d763d317.chunk.js.map",
+    "index.html": "//dimatkachenkopro.github.io/uber-map/index.html",
+    "precache-manifest.b14198669ffdc1c5c4c924fb0b01fffd.js": "//dimatkachenkopro.github.io/uber-map/precache-manifest.b14198669ffdc1c5c4c924fb0b01fffd.js",
+    "service-worker.js": "//dimatkachenkopro.github.io/uber-map/service-worker.js",
+    "static/css/main.9b2363ee.chunk.css.map": "//dimatkachenkopro.github.io/uber-map/static/css/main.9b2363ee.chunk.css.map"
+  }
+}
